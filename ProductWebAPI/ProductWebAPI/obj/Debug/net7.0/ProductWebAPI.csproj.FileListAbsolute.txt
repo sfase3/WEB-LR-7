@@ -1,0 +1,66 @@
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/bin/Debug/net7.0/appsettings.json
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/bin/Debug/net7.0/ProductWebAPI.exe
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/bin/Debug/net7.0/ProductWebAPI.deps.json
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/bin/Debug/net7.0/ProductWebAPI.runtimeconfig.json
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/bin/Debug/net7.0/ProductWebAPI.dll
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/bin/Debug/net7.0/ProductWebAPI.pdb
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.csproj.AssemblyReference.cache
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.AssemblyInfoInputs.cache
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.AssemblyInfo.cs
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.ProductWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.ProductWebAPI.props
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ProductWebAPI.props
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ProductWebAPI.props
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/scopedcss/bundle/ProductWebAPI.styles.css
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.csproj.CopyComplete
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.dll
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/refint/ProductWebAPI.dll
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.pdb
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.genruntimeconfig.cache
+C:/Users/Admin/source/repos/ProductWebAPI/ProductWebAPI/obj/Debug/net7.0/ref/ProductWebAPI.dll
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/bin/Debug/net7.0/appsettings.Development.json
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/bin/Debug/net7.0/appsettings.json
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/bin/Debug/net7.0/ProductWebAPI
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/bin/Debug/net7.0/ProductWebAPI.deps.json
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/bin/Debug/net7.0/ProductWebAPI.runtimeconfig.json
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/bin/Debug/net7.0/ProductWebAPI.dll
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/bin/Debug/net7.0/ProductWebAPI.pdb
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.csproj.AssemblyReference.cache
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.AssemblyInfoInputs.cache
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.AssemblyInfo.cs
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.csproj.CoreCompileInputs.cache
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.ProductWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.build.ProductWebAPI.props
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ProductWebAPI.props
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ProductWebAPI.props
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/staticwebassets.build.json
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/staticwebassets.development.json
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/scopedcss/bundle/ProductWebAPI.styles.css
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.csproj.CopyComplete
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.dll
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/refint/ProductWebAPI.dll
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.pdb
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/ProductWebAPI.genruntimeconfig.cache
+/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/obj/Debug/net7.0/ref/ProductWebAPI.dll

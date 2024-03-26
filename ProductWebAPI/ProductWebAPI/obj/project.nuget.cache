@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mOHEVFktTxUy6yx30v5BZTaqhmLNQxiaj0vqEscXYhPqVCv7iQQm2zDKQCAWJKB6pxBL+uQq4e2uauQJlF1gww==",
+  "success": true,
+  "projectFilePath": "/Users/sfase3/Documents/CHMNU/Розробка адаптивних web-інтерфейсів/LR7/ProductWebAPI (2)/ProductWebAPI/ProductWebAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/sfase3/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/sfase3/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/sfase3/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/sfase3/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/sfase3/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/sfase3/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/sfase3/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
